@@ -12,7 +12,11 @@
     "test"
   ],
   "author": "virinchi uppalapati",
-  "license": "ISC",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/virinchi-hutech/loginCart.git"
+  },
   "devDependencies": {
     "@babel/core": "^7.7.7",
     "@babel/preset-env": "^7.7.7",
