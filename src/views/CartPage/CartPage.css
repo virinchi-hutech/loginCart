@@ -1,0 +1,64 @@
+.footer {
+    width: 100%;
+    height: 33px;
+    background-color: #4b6abd;
+    position: absolute;
+    bottom: 0;
+  }
+  .sideNava{
+    z-index: 1;
+    background-color: white;
+    width: 30%;
+    max-width: 300px;
+    height: 100%;
+    position: absolute;
+    text-align: center;
+    background-color: black;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: 100%;
+  }
+  .logo{
+    margin-bottom:10px;
+    height: 18%;
+  }
+  .iconssa{
+      width: 129px;
+      height: 113px;
+  }
+  .iconssa2{
+    width: 50px;
+    height: 32px;
+}
+  .content{
+      width: 100%;
+      height: 100%;
+      position: absolute;
+      z-index: inherit;
+      background-color: #f6f8fc;
+  }
+  .democa{
+    top: 40%;
+    position: absolute;
+    width: 70%;
+    /* display: flex; */
+    right: 0;
+  }
+  .sdsbdvb{
+      margin-top: 10px;
+      margin-right: 2.5px;
+      margin-left: 2.5px;
+      width: 220px;
+      background-color: #ffffff;
+      height: 60px;
+      border-bottom: 3px solid #dddddd;
+  }
+
+  .sdsbdvb:hover{
+    border-bottom: 3px solid #f9a426;
+    background-color: #e1f2fe;
+  }
+
+  .dasvdsv:hover{
+    border: 2px solid currentColor;
+  }
