@@ -46,7 +46,7 @@
     "node-waves": "^0.7.6",
     "popper.js": "^1.16.0",
     "react-router": "^5.1.2",
-    "underscore": "^1.9.2",
+    "underscore": "^1.12.1",
     "wow.js": "^1.2.2"
   }
 }
